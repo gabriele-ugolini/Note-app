@@ -31,18 +31,42 @@ src/
 
 ## 🧑‍💻 Installazione e avvio
 
- 1. Clona il repository
+Per la cartella con node modules (mandata per e-mail):
 
-git clone https://github.com/tuo-username/note-app.git
-cd note-app
+ 1. Scaricare e unzippare la cartella
 
- 2. Installa le dipendenze
+    se la cartella viene messa dentro un'altra identica estrarla (di modo da avere una cartella direttamente con file JS, ecc.)
 
-npm install
+ 3. Nel terminale entrare nella cartella
+
+    cd note-app 
+
+ 4. Avvia l'applicazione
+
+    npm start
+
+Per la cartella senza node modules (allegata al repository):
+
+ 1. Scaricare Node.js (da internet o da terminale)
+
+ 2. Scaricare e unzippare la cartella
+
+    se la cartella viene messa dentro un'altra identica estrarla (di modo da avere una cartella direttamente con file JS, ecc.)
+
+ 4. Nel terminale entrare nella cartella
+
+    cd note-app
+
+ 5. Installare le dipendenze
+
+    npm install
 
  3. Avvia l'applicazione
 
-npm start
+    npm start
+
+#ho effettuato alcune prove e creava errori usando il progetto senza node modules
+
 
 ## 📌 Decisioni implementative
 
