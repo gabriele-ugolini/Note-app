@@ -1,7 +1,7 @@
 cat << 'EOF' > README.md
 # 📝 Note App – React Challenge
 
-Questa è una semplice ma funzionale applicazione per la gestione di note personali, realizzata con **React** come parte di una challenge intermedia. L'app consente di creare, modificare, eliminare e cercare note, con salvataggio persistente tramite \`localStorage\`.
+Questa è una semplice ma funzionale applicazione per la gestione di note personali, realizzata con **React** come parte di una challenge intermedia. L'app consente di creare, modificare, eliminare e cercare note.
 
 ## ✨ Funzionalità principali
 
